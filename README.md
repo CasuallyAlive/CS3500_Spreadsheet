@@ -1,0 +1,2 @@
+# CS3500_Spreadsheet
+Software Engineering 1's first major project. Developed a system that computes elementary mathematical infix expressions off inputs from the spreadsheet widget created by the course staff. I developed the dependency map library and expression evaluator from course provided specifications documents or interfaces. Deployed the forms designer toolkit on Visual Studio to append to the spreadsheet and added additional ui specific features such as saving/loading, buttons, pop-up windows, and key mappings. 
